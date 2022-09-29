@@ -1,4 +1,4 @@
-var carColor = "pink";
+var carColor = "red";
 
 if (carColor === "green") {
   console.log("The cars color is green");
